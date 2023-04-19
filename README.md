@@ -6,7 +6,7 @@
 
 |:pen:|   Favourite languages: R and Python.
 
-|📫| Get in contact on [GitHub](https://github.com/dudelguy/) or [LinkedIn](linkedin.com/in/simon-müller-b28a60272).
+|📫| Get in contact on [GitHub](https://github.com/dudelguy/) or [Linkedin](https://linkedin.com/in/simon-müller-b28a60272).
 
 <!--
 **dudelguy/dudelguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
