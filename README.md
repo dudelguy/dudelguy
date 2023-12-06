@@ -2,9 +2,9 @@
 
 |👋|  Hi there. I am dudelguy, a researcher working with large geochemical datasets and high resolution element maps. I also like to analyse different topics based on personal interest, using data sources from the world wide web. 
 
-|:bookmark_tabs:|   The projects featured on my profile cover parts of my scientific work or are the results of personal interests.
+|📑|   The projects featured on my profile cover parts of my scientific work or are the results of personal interests.
 
-|:pen:|   Favourite languages: R and Python.
+|🖊️|   Favourite languages: R and Python.
 
 |📫| Get in touch on [GitHub](https://github.com/dudelguy/) or [Linkedin](https://linkedin.com/in/simon-müller-b28a60272).
 
