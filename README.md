@@ -1,4 +1,4 @@
-## dudelguy | (Geo-)Data Scientist | Scientific Code and Personal Projects
+## dudelguy | Data Scientist | Scientific Code and Personal Projects
 
 |👋|  Hi there. I am dudelguy, a researcher working with large geochemical datasets and high resolution element maps. I also like to analyse different topics based on personal interest, using data sources from the world wide web. 
 
